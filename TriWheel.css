@@ -1,0 +1,126 @@
+.tri-wheel-wen{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    font-size: 60px;
+    margin: 100;
+    right: -1020px;
+    top: -450px;
+}
+.tri-wheel-hsi {
+    position: relative;
+    height: 300px;
+    width: 300px;
+    font-size: 60px;
+    margin: 100;
+    top: -150px;
+    left: 190px;
+}
+
+
+.name{
+    position: absolute;
+    top: 140px;
+    left:135px;
+    font-size: 15px;
+}
+
+.southeast{
+    font-size: 15px;
+    position: absolute;
+    transform: rotate(-45deg);
+    top: 30px;
+    left: 30px;
+}
+.east{
+    font-size: 15px;
+    position: absolute;
+    left: -16px;
+    top: 143px;
+}
+.northeast{
+    font-size: 15px;
+    position: absolute;
+    transform: rotate(45deg);
+    bottom: 25px;
+    left: 28px;
+}
+.north{
+    font-size: 15px;
+    position: absolute;
+    bottom: -25px;
+    left: 146px;
+}
+.south{
+    font-size: 15px;
+    position: absolute;
+    top: -25px;
+    left: 147px;
+}
+.southwest{
+    font-size: 15px;
+    position: absolute;
+    transform: rotate(45deg);
+    top: 33px;
+    right: 28px;
+}
+.west{
+    font-size: 15px;
+    position: absolute;
+    right: -20px;
+    top: 143px;
+}
+.northwest{
+    font-size: 15px;
+    position: absolute;
+    transform: rotate(-45deg);
+    bottom: 28px;
+    right: 25px;
+}
+
+.se{
+    transform: rotate(-45deg);
+    position: absolute;
+    top: 23px;
+    left: 35px;
+}
+.s{
+    position: absolute;
+    top: -23px;
+    left: 125px;
+}
+.sw{
+    position: absolute;
+    transform: rotate(45deg);
+    top: 25px;
+    right: 35px;
+}
+.e{
+    position: absolute;
+    left: -10px;
+    top: 115px;
+    transform: rotate(-90deg);
+}
+.w{
+    position: absolute;
+    right: -10px;
+    top: 115px;
+    transform: rotate(90deg);
+}
+.ne{
+    position: absolute;
+    left: 33px;
+    bottom: 18px;
+    transform: rotate(-135deg);
+}
+.n{
+    position: absolute;
+    left: 125px;
+    bottom: -15px;
+}
+.nw{
+    position: absolute;
+    bottom: 20px;
+    right: 35px;
+    transform: rotate(135deg);
+}

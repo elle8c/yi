@@ -1,0 +1,22 @@
+.line-dev {
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    top: 100px;
+}
+
+.first {
+    justify-content: center;
+    display: flex;
+}
+
+.second {
+    justify-content: center;
+    display: flex;
+}
+
+.third {
+    justify-content: center;
+    display: flex;
+} 

@@ -1,0 +1,11 @@
+.App{
+  display: flexbox;
+position: relative;
+}
+body {
+  background-color: #000000;
+}
+
+div {
+  color: aquamarine;
+}

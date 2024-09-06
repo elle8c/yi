@@ -1,0 +1,62 @@
+.wen-display
+{
+display: flex;
+text-align: center;
+width: 100%;
+height: 100%;
+}
+
+.wen-sequence
+{
+font-size: 50px;
+display: flex;
+
+border-bottom: .1px solid;
+margin: auto;
+border-color: rgba(127, 255, 212, 0.151);
+}
+
+.row-one
+{
+padding: 8px;
+}
+
+.row-two
+{
+padding: 8px;
+}
+
+.row-three
+{
+padding: 8px;
+}
+
+.row-four
+{
+padding: 8px;
+}
+
+.row-five
+{
+padding: 8px;
+}
+
+.row-six
+{
+padding: 8px;
+}
+
+.row-seven
+{
+padding: 8px;
+}
+
+.row-eight
+{
+padding: 8px;
+}
+
+.hexagram
+{
+font-size: 30px;
+}
